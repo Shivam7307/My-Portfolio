@@ -744,3 +744,12 @@ h3 .my-profession{
     margin-top: -40px;
     display: block;
 }
+
+#goals2025 li strong{
+    color: var(--text-black-900);
+}
+
+#goals2025 li{
+    color: var(--text-black-700);
+    padding: 1rem;
+}
